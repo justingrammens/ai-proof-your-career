@@ -39,7 +39,9 @@ The closing line: **the advantage is you.**
 
 ## Keep going
 
-- [Applied AI meetups](https://appliedai.mn): monthly in Minnesota, with some events free
+Learn about everything the Applied AI community does at [appliedai.mn](https://appliedai.mn).
+
+- [Applied AI meetups](https://www.meetup.com/applied_ai/): monthly in Minnesota, with some events free
 - [Conversations on Applied AI](https://podcast.appliedai.mn): the podcast
 - [Applied AI newsletter](https://mailchi.mp/appliedai/signup): monthly, sign up to stay in the loop
 - [Lab651](https://lab651.com): Software Engineering for Regulated Industries
