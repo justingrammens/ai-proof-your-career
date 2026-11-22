@@ -40,7 +40,7 @@ The closing line: **the advantage is you.**
 ## Keep going
 
 - [Applied AI meetups](https://appliedai.mn): free, monthly, in Minnesota
-- Conversations on Applied AI: the podcast, wherever you get podcasts
+- [Conversations on Applied AI](https://podcast.appliedai.mn): the podcast
 - [Lab651](https://lab651.com): Software Engineering for Regulated Industries
 
 If this talk gets you to start something, a podcast, a newsletter, a meetup or a side project, I'd love to hear about it.
