@@ -41,6 +41,7 @@ The closing line: **the advantage is you.**
 
 - [Applied AI meetups](https://appliedai.mn): monthly in Minnesota, with some events free
 - [Conversations on Applied AI](https://podcast.appliedai.mn): the podcast
+- [Applied AI newsletter](https://mailchi.mp/appliedai/signup): monthly, sign up to stay in the loop
 - [Lab651](https://lab651.com): Software Engineering for Regulated Industries
 
 If this talk gets you to start something, a podcast, a newsletter, a meetup or a side project, I'd love to hear about it.
